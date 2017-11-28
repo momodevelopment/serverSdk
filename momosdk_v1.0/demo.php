@@ -29,7 +29,7 @@ function execPostRequest($url, $data)
 }
 
 
- $api_payment = "http://apptest2.momo.vn:8091/paygamebill";
+ $api_payment = "http://testing.momo.vn:8093/pay/app";
  //ID test provided by MoMo. Please contact MoMo team for getting MerchantCode, Public key Production
  $partner_code = "SCB01";
  //ipaddress is your server ip address
